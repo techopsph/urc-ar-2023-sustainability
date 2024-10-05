@@ -1886,31 +1886,31 @@ h1,h2,h3,h4,h5,h6{
 }
 
 .blockquote-red::before{
-  background: url(https://www.urc.com.ph/annualreport2023/wp-content/uploads/2024/06/QuotationMarkRed.png);
+  background: url(https://techopsph.github.io/urc-ar-2023-sustainability/wp-content/uploads/2024/06/QuotationMarkRed.png);
     background-position: center center;
   background-repeat: no-repeat;
   background-size: contain;
 }
 .blockquote-green::before{
-  background: url(https://www.urc.com.ph/annualreport2023/wp-content/uploads/2024/06/QuotationMarkGreen.png); 
+  background: url(https://techopsph.github.io/urc-ar-2023-sustainability/wp-content/uploads/2024/06/QuotationMarkGreen.png); 
   background-position: center center;
   background-repeat: no-repeat;
   background-size: contain;
 }
 .blockquote-blue::before{
-  background: url(https://www.urc.com.ph/annualreport2023/wp-content/uploads/2024/06/QuotationMarkBlue.png);
+  background: url(https://techopsph.github.io/urc-ar-2023-sustainability/wp-content/uploads/2024/06/QuotationMarkBlue.png);
   background-position: center center;
   background-repeat: no-repeat;
   background-size: contain;
 }
 .blockquote-purple::before{
-  background: url(https://www.urc.com.ph/annualreport2023/wp-content/uploads/2024/06/QuotationMarkPurple.png);
+  background: url(https://techopsph.github.io/urc-ar-2023-sustainability/wp-content/uploads/2024/06/QuotationMarkPurple.png);
   background-position: center center;
   background-repeat: no-repeat;
   background-size: contain;
 }
 .blockquote-white::before{
-  background: url(https://www.urc.com.ph/annualreport2023/wp-content/uploads/2024/06/QuotationMarkWhite.png);
+  background: url(https://techopsph.github.io/urc-ar-2023-sustainability/wp-content/uploads/2024/06/QuotationMarkWhite.png);
   background-position: center center;
   background-repeat: no-repeat;
   background-size: contain;
